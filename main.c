@@ -5,5 +5,8 @@ int main() {
     int age = 24;
     printf("Hello %s\n", name);
     printf("%s is %d\n", name, age);
+
+    age = 10;
+    printf("%d",age);
     return 0;
 }
